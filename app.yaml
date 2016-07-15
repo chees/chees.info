@@ -6,7 +6,7 @@ api_version: go1
 default_expiration: "1h"
 
 handlers:
-- url: /.well-known/acme-challenge/wVaspiZ4mbhzj9HktN0r7AediyqeHRkW4vuGAO8GVGI
+- url: /.well-known/acme-challenge/TT396OFE8Fs5y7IPQHPS1Cku-6Mfotg6BypEeB1HCdo
   static_files: static/letsencrypt.txt
   mime_type: text/plain
   upload: static/letsencrypt.txt
