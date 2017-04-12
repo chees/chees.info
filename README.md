@@ -1,10 +1,10 @@
 Run locally:
 
-    goapp serve
+    dev_appserver.py .
 
 Deploy:
 
-    goapp deploy
+    gcloud app deploy --project chees-info
 
 
 Letsencrypt:
